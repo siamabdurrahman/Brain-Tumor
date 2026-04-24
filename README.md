@@ -1,3 +1,3 @@
-Brain Tumour Detection from MRI Images Using Convolutional Neural Networks and Transfer Learning (Final Version)
+Brain Tumour Detection via CNNs and Transfer Learning (V1 Prototype)
 
-This repository contains the final, optimised code for my brain tumour detection model, submitted for Assessment. It provides a comprehensive overview of the finalised model architecture, training methodology, and evaluation metrics using CNNs and transfer learning.
+This version represents the foundational build of my brain tumour detection project. I have kept this iteration available as it offers a clear, step-by-step breakdown of the algorithm's logic and the iterative testing phases. The finalized, error-free version of this project is available in my main GitHub repository.
