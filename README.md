@@ -1,7 +1,9 @@
-Brain Tumour Detection via CNNs and Transfer Learning
+# Brain Tumour Detection via CNNs and Transfer Learning
 
-This repository presents a brain tumour detection project using convolutional neural networks and transfer learning. It includes both an exploratory V1 prototype and a cleaner final implementation to demonstrate the full development process and final organised machine-learning pipeline.
+This repository contains a brain tumour detection project using convolutional neural networks (CNNs) and transfer learning for binary MRI image classification. The aim is to develop, evaluate, and interpret an end-to-end machine-learning pipeline that distinguishes between tumour-positive and non-tumour MRI images.
 
-The project includes two versions of the code. The first version follows a detailed, exploratory workflow, showing each stage of testing and decision-making clearly. This version is useful for understanding how the pipeline was developed and validated. The second version is a cleaner and more structured implementation, designed to improve readability, reproducibility, and maintainability.
+The repository includes two versions of the implementation. The **V1 prototype** documents the exploratory development process, including dataset preparation, preprocessing, model training, evaluation, and Grad-CAM explainability. This version provides transparency by showing how the workflow was tested, refined, and validated during development.
 
-Together, these versions demonstrate both the experimental development process and the final organised machine-learning pipeline used for brain tumour classification from MRI images.
+The **final implementation** presents a cleaner and more structured version of the pipeline, improving readability, reproducibility, and maintainability. It represents the organised workflow used for the final report, including dataset auditing, preprocessing, model comparison, performance evaluation, and explainability.
+
+Together, these notebooks provide both development evidence and a final structured machine-learning solution for brain tumour classification from MRI images.
