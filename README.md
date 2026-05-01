@@ -1,4 +1,4 @@
-Brain Tumour Detection via CNNs and Transfer Learning — V1 Prototype
+Brain Tumour Detection via CNNs and Transfer Learning
 
 This repository presents the foundational prototype of my brain tumour detection project using convolutional neural networks and transfer learning. The V1 version has been retained to provide a transparent, step-by-step record of the full development process, including dataset preparation, preprocessing, model training, evaluation, and explainability.
 
